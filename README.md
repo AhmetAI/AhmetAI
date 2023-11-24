@@ -3,8 +3,6 @@
 - 🔭I'm currently working on a top secret  project 🤫...(calculator app)
 - 🌱I'm currently learning React Native
 - 💬 Ask me anything you want about Python and Django - or how I am
-- ⚡ Fun fact:
-
 
 <div align="center">
 
