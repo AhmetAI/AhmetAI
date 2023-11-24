@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<h1 align="center">Hi 👋, I'm Ahmet Arda İpek</h1>
 
 - 🔭I'm currently working on a top secret  project 🤫...
 - 🌱I'm currently learning React Native
