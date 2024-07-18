@@ -11,7 +11,7 @@
     <p>
         💬 Ask me anything - like how I am
     </p>
-    <h3> 🌐 Socials </h3>
+    <h3> 🌐 Reach Me </h3>
     
    [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:ahmet.ardaipekk@gmail.com)
    [![Google Play Badge](https://img.shields.io/badge/Google%20Play-414141?logo=googleplay&logoColor=fff&style=flat)](https://play.google.com/store/apps/developer?id=AhmetAI)
