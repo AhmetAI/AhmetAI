@@ -1,17 +1,30 @@
-<h1 align="center">👋 Hi, I'm Ahmet Arda İpek! </h1>
+
 
 <div align="center">
+    <img align="center" alt="AhmetAI" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=AhmetAI&section=header&reversal=false&textBg=false&fontAlign=50&rotate=0&fontAlignY=50&fontColor=ffffff&animation=twinkling&strokeWidth=1"/>
+    <h2 align="center">👋 Hi, I'm Ahmet Arda İpek! </h2>
+  
+   ![](https://komarev.com/ghpvc/?username=AhmetAI)
     <p>
         🌱I'm currently working on <strong>React Native</strong>
     </p>
     <p>
         💬 Ask me anything - like how I am
     </p>
+    <h3> 🌐 Socials </h3>
+    
+   [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:ahmet.ardaipekk@gmail.com)
+   [![Google Play Badge](https://img.shields.io/badge/Google%20Play-414141?logo=googleplay&logoColor=fff&style=flat)](https://play.google.com/store/apps/developer?id=AhmetAI)
+   [![Medium Badge](https://img.shields.io/badge/Medium-000?logo=medium&logoColor=fff&style=flat)](https://medium.com/@ahmet.ardaipekk)
+   
+   <h3> 💻 Tech Stack </h3>
+   
+   ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
+   ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
+   ![Python Badge](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff&style=flat)
+   ![Django Badge](https://img.shields.io/badge/Django-092E20?logo=django&logoColor=fff&style=flat)
+   ![Firebase Badge](https://img.shields.io/badge/Firebase-DD2C00?logo=firebase&logoColor=fff&style=flat)
+   ![Git Badge](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=fff&style=flat)
 
-  ![](https://komarev.com/ghpvc/?username=AhmetAI)
   
-  <p align="center"> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> </p>
-  
-  ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=AhmetAI&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
 </div>
