@@ -8,9 +8,6 @@
     <p>
         🌱I'm currently working on <strong>React Native</strong>
     </p>
-    <p>
-        💬 Ask me anything - like how I am
-    </p>
     <h3> 🌐 Reach Me </h3>
     
    [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=gmail&logoColor=fff&style=flat)](mailto:ahmet.ardaipekk@gmail.com)
